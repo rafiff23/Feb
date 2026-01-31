@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Birthday Polaroid",
+  "description": "An interactive, animated birthday card application featuring a customizable Polaroid photo frame and AI-powered birthday wish generation.",
+  "requestFramePermissions": []
+}
