@@ -9,25 +9,25 @@ interface GalleryProps {
 
 const galleryData = [
   // Row 1
-  { id: 'img-1', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_3997.HEIC?updatedAt=1769871118601&tr=f-auto', caption: "Capturing this moment forever. ✨" },
-  { id: 'img-2', src: 'https://ik.imagekit.io/fcuinpkmj/b25ccb4c-517e-4a94-a0e0-eeffd7e46b4a.JPG?updatedAt=1769870923798&tr=f-auto', caption: "You radiate so much joy. ❤️" },
-  { id: 'img-3', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_5322.PNG?updatedAt=1769871117880&tr=f-auto', caption: "Simply beautiful. 🌸" },
-  { id: 'img-4', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_7075.HEIC?updatedAt=1769871118844&tr=f-auto', caption: "That smile is everything. 💫" },
+  { id: 'img-1', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_3997.HEIC?updatedAt=1769871118601&tr=f-auto', caption: "Firs Time we Meet. ✨" },
+  { id: 'img-2', src: 'https://ik.imagekit.io/fcuinpkmj/b25ccb4c-517e-4a94-a0e0-eeffd7e46b4a.JPG?updatedAt=1769870923798&tr=f-auto', caption: "First PAP. ❤️" },
+  { id: 'img-3', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_5322.PNG?updatedAt=1769871117880&tr=f-auto', caption: "First Photobooth Together. 🌸" },
+  { id: 'img-4', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_7075.HEIC?updatedAt=1769871118844&tr=f-auto', caption: "First Time ditinggalin keluar kota :(" },
   { id: 'img-5', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0030.JPG?updatedAt=1769871117211&tr=f-auto', caption: "My favorite view. 🏠" },
 
   // Row 2
-  { id: 'img-6', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_9112.HEIC?updatedAt=1769871118610&tr=f-auto', caption: "Adore this one. 🤍" },
-  { id: 'img-7', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_7111.JPG?updatedAt=1769871117164&tr=f-auto', caption: "Brightening up the world. ☀️" },
-  { id: 'img-8', src: 'https://ik.imagekit.io/fcuinpkmj/Screenshot%202026-01-02%20at%2018.24.28.jpg?updatedAt=1769870811770&tr=f-auto', caption: "Always pretty. 🌎" },
-  { id: 'img-9', src: 'https://ik.imagekit.io/fcuinpkmj/f2c01f05-0324-4a1b-b833-9d6a105f6c95.JPG?updatedAt=1769870857106&tr=f-auto', caption: "A core memory. 🎵" },
+  { id: 'img-6', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_9112.HEIC?updatedAt=1769871118610&tr=f-auto', caption: "Semangat Belajar nya CANTIKKKK. 🤍" },
+  { id: 'img-7', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_7111.JPG?updatedAt=1769871117164&tr=f-auto', caption: "dari AI semoga jadi kenyataan akan jd Mimpi aku. ☀️" },
+  { id: 'img-8', src: 'https://ik.imagekit.io/fcuinpkmj/Screenshot%202026-01-02%20at%2018.24.28.jpg?updatedAt=1769870811770&tr=f-auto', caption: "Aamiin ya beb semoga dunia baik sama kamu. 🌎" },
+  { id: 'img-9', src: 'https://ik.imagekit.io/fcuinpkmj/f2c01f05-0324-4a1b-b833-9d6a105f6c95.JPG?updatedAt=1769870857106&tr=f-auto', caption: "That smile is everything. 💫" },
   { id: 'img-10', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_9627.jpg?tr=f-auto', caption: "Just perfect. 💖" },
 
   // Row 3
-  { id: 'img-11', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_9625.JPG?updatedAt=1769871117355&tr=f-auto', caption: "Love this vibe. ✨" },
-  { id: 'img-12', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0103.JPG?updatedAt=1769871117365&tr=f-auto', caption: "Stunning as always. 🦋" },
-  { id: 'img-13', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0136.JPG?updatedAt=1769871117335&tr=f-auto', caption: "So precious. 💝" },
+  { id: 'img-11', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_9625.JPG?updatedAt=1769871117355&tr=f-auto', caption: "Last Photobooth. ✨" },
+  { id: 'img-12', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0103.JPG?updatedAt=1769871117365&tr=f-auto', caption: "A core memory. 🎵" },
+  { id: 'img-13', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0136.JPG?updatedAt=1769871117335&tr=f-auto', caption: "NINDIKKKK. 💝" },
   { id: 'img-14', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0105.JPG?updatedAt=1769871117007&tr=f-auto', caption: "Keep smiling. 😊" },
-  { id: 'img-15', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0143.JPG?updatedAt=1769871116208&tr=f-auto', caption: "Forever favorite. 🌹" },
+  { id: 'img-15', src: 'https://ik.imagekit.io/fcuinpkmj/IMG_0143.JPG?updatedAt=1769871116208&tr=f-auto', caption: "Ultah dengan perempuan terbaik. 🌹" },
 ];
 
 const keywords = ["Beautiful", "Smart", "Kind", "Honest", "Patient", "Perfect"];
