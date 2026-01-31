@@ -142,5 +142,5 @@ const Marquee = ({ direction, items, onHover }: { direction: 'left' | 'right'; i
     </div>
   );
 };
-
+// dsadsd
 export default Gallery;
